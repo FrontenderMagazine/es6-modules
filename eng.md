@@ -133,7 +133,7 @@ In ECMAScript 6, you can use an anonymous inner module:
             }
         </script>
 
-Aside from being syntactically simpler, using a module in this manner has the advantage that the innards are automatically in strict mode<a href="#note-3" class="reference">3</a> .
+Aside from being syntactically simpler, using a module in this manner has the advantage that the innards are automatically in strict mode<a href="#note-3" class="reference">3</a>.
 
 Note that you do not need to be inside a module in order to import things. The import declaration can be used in normal script context. 
 
